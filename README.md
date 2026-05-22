@@ -1,4 +1,3 @@
-## Hi Ziad Ahmed👋
 
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
 
