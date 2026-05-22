@@ -1,121 +1,113 @@
-
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
 
 <h3 align="center">
-AI Engineering Student | Machine Learning Enthusiast
+Machine Learning Engineer | AI Student
 </h3>
 
-<hr>
-
-<h2>🚀 About Me</h2>
-
-<p>
-I am an AI Engineering student passionate about building intelligent systems using 
-Machine Learning, Deep Learning, and Computer Vision.
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and building intelligent systems 🚀
 </p>
 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<hr>
+
+<h2>🧠 About Me</h2>
+
 <ul>
-  <li>🎓 AI Engineering Student</li>
-  <li>💻 Interested in AI & Backend Development</li>
-  <li>🤖 Passionate about Machine Learning & NLP</li>
-  <li>📚 Currently learning Deep Learning and advanced AI</li>
-  <li>🚀 Goal: Become a professional AI Engineer</li>
+  <li>🎓 AI Engineering Student specialized in Machine Learning</li>
+  <li>🤖 Passionate about Artificial Intelligence & Data Science</li>
+  <li>📊 Interested in Predictive Models & Data Analysis</li>
+  <li>🧠 Strong knowledge of Data Structures & Algorithms</li>
+  <li>💻 Solving real-world problems using AI technologies</li>
+  <li>🚀 Currently improving my Machine Learning skills</li>
 </ul>
 
 <hr>
 
-<h2>⚡ Skills</h2>
+<h2>⚡ Tech Stack</h2>
 
-<h3>Programming Languages</h3>
-<ul>
-  <li>Python</li>
-  <li>C++</li>
-  <li>SQL</li>
-</ul>
+<h3>👨‍💻 Languages</h3>
 
-<h3>AI & Data Science</h3>
-<ul>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Data Analysis</li>
-  <li>Data Visualization</li>
-</ul>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
 
-<h3>Frameworks & Libraries</h3>
-<ul>
-  <li>TensorFlow</li>
-  <li>PyTorch</li>
-  <li>Scikit-learn</li>
-  <li>OpenCV</li>
-  <li>Pandas</li>
-  <li>NumPy</li>
-</ul>
+<h3>🧠 Machine Learning & AI</h3>
 
-<h3>Tools</h3>
-<ul>
-  <li>Git & GitHub</li>
-  <li>VS Code</li>
-  <li>Jupyter Notebook</li>
-</ul>
+<p>
+Machine Learning • Data Analysis • Deep Learning • Feature Engineering • Model Training
+</p>
+
+<h3>📚 Libraries & Frameworks</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV
+</p>
+
+<h3>🛠️ Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 <hr>
 
 <h2>📌 Featured Projects</h2>
 
-<h3>🧠 Face Recognition System</h3>
+<h3>🏠 House Price Prediction</h3>
 
 <p>
-AI system for detecting and recognizing faces using OpenCV and Deep Learning.
+Machine Learning model for predicting house prices using regression algorithms and data preprocessing techniques.
 </p>
-
-<b>Tech Used:</b>
-<ul>
-  <li>Python</li>
-  <li>OpenCV</li>
-  <li>CNN</li>
-</ul>
 
 <p>
-🔗 <a href="#">Project Link</a>
+<b>Tech:</b> Python • Pandas • Scikit-learn • Matplotlib
 </p>
 
-<hr>
+<a href="YOUR_PROJECT_LINK">
+  🔗 View Project
+</a>
 
-<h3>💬 NLP Chatbot</h3>
+<br><br>
+
+<h3>📊 Customer Churn Prediction</h3>
 
 <p>
-Smart chatbot using Natural Language Processing techniques.
+Predicting customer churn using classification algorithms and feature engineering.
 </p>
-
-<b>Tech Used:</b>
-<ul>
-  <li>Python</li>
-  <li>NLP</li>
-  <li>TensorFlow</li>
-</ul>
 
 <p>
-🔗 <a href="#">Project Link</a>
+<b>Tech:</b> Python • Machine Learning • Data Analysis
 </p>
 
-<hr>
+<a href="YOUR_PROJECT_LINK">
+  🔗 View Project
+</a>
 
-<h3>📊 House Price Prediction</h3>
+<br><br>
+
+<h3>🤖 AI Chatbot</h3>
 
 <p>
-Machine Learning model for predicting house prices using regression algorithms.
+Intelligent chatbot using NLP and Machine Learning techniques.
 </p>
-
-<b>Tech Used:</b>
-<ul>
-  <li>Python</li>
-  <li>Scikit-learn</li>
-  <li>Pandas</li>
-</ul>
 
 <p>
-🔗 <a href="#">Project Link</a>
+<b>Tech:</b> Python • NLP • TensorFlow
 </p>
+
+<a href="YOUR_PROJECT_LINK">
+  🔗 View Project
+</a>
 
 <hr>
 
@@ -123,53 +115,65 @@ Machine Learning model for predicting house prices using regression algorithms.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
+    height="180"
   />
 </p>
 
 <hr>
 
-<h2>🔥 Most Used Languages</h2>
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"
   />
 </p>
+
+<hr>
+
+<h2>🏆 Achievements</h2>
+
+<ul>
+  <li>✅ Built Machine Learning projects using real datasets</li>
+  <li>✅ Strong understanding of Data Structures & Algorithms</li>
+  <li>✅ Experience with Data Cleaning & Visualization</li>
+  <li>✅ Learning advanced AI concepts and backend systems</li>
+</ul>
 
 <hr>
 
 <h2>🌐 Connect With Me</h2>
 
-<ul>
-  <li>
-    💼 LinkedIn:
-    <a href="https://linkedin.com/in/YOUR_LINK">
-      YOUR_LINK
-    </a>
-  </li>
+<p align="center">
 
-  <li>
-    📧 Email:
-    your-email@gmail.com
-  </li>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <li>
-    🌍 GitHub:
-    <a href="https://github.com/YOUR_USERNAME">
-      YOUR_USERNAME
-    </a>
-  </li>
-</ul>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 <hr>
 
-<h2>✨ Quote</h2>
+<h2 align="center">✨ Quote</h2>
 
-<p>
+<p align="center">
 <i>
-"AI is not the future, it is the present we are building."
+"Machine Learning is about solving problems, not just training models."
 </i>
 </p>
