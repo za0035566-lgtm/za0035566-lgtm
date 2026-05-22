@@ -1,4 +1,4 @@
-## Hi ziad ahmed👋
+## Hi Ziad Ahmed👋
 
 <!--
 **za0035566-lgtm/za0035566-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
